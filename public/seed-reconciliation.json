@@ -1,0 +1,94 @@
+{
+  "cutoff": "2101-04-30T23:59:59Z",
+  "summary": {
+    "active_plots": 8,
+    "stocked": 4,
+    "short": 1,
+    "awaiting": 3,
+    "packets_needed": 27,
+    "packets_received": 17,
+    "packets_short": 12
+  },
+  "plots": [
+    {
+      "plot_id": "PT-01",
+      "gardener": "Amina Cole",
+      "bed": "North-1",
+      "packets_needed": 4,
+      "received_packets": 4,
+      "shortfall": 0,
+      "status": "stocked",
+      "notice_id": "DN-001"
+    },
+    {
+      "plot_id": "PT-02",
+      "gardener": "Bruno Diaz",
+      "bed": "East-2",
+      "packets_needed": 4,
+      "received_packets": 4,
+      "shortfall": 0,
+      "status": "stocked",
+      "notice_id": "DN-003"
+    },
+    {
+      "plot_id": "PT-03",
+      "gardener": "Chen Wu",
+      "bed": "South-1",
+      "packets_needed": 5,
+      "received_packets": 0,
+      "shortfall": 5,
+      "status": "awaiting",
+      "notice_id": "DN-004"
+    },
+    {
+      "plot_id": "PT-05",
+      "gardener": "Elena Moss",
+      "bed": "North-4",
+      "packets_needed": 6,
+      "received_packets": 8,
+      "shortfall": 0,
+      "status": "stocked",
+      "notice_id": "DN-005"
+    },
+    {
+      "plot_id": "PT-06",
+      "gardener": "Faye Noor",
+      "bed": "East-5",
+      "packets_needed": 2,
+      "received_packets": 0,
+      "shortfall": 2,
+      "status": "awaiting",
+      "notice_id": null
+    },
+    {
+      "plot_id": "PT-07",
+      "gardener": "Gabe Holt",
+      "bed": "South-2",
+      "packets_needed": 3,
+      "received_packets": 0,
+      "shortfall": 3,
+      "status": "awaiting",
+      "notice_id": "DN-008"
+    },
+    {
+      "plot_id": "PT-09",
+      "gardener": "Iris Bell",
+      "bed": "North-6",
+      "packets_needed": 1,
+      "received_packets": 1,
+      "shortfall": 0,
+      "status": "stocked",
+      "notice_id": "DN-009"
+    },
+    {
+      "plot_id": "PT-10",
+      "gardener": "Jules Park",
+      "bed": "East-7",
+      "packets_needed": 2,
+      "received_packets": 0,
+      "shortfall": 2,
+      "status": "short",
+      "notice_id": "DN-010"
+    }
+  ]
+}

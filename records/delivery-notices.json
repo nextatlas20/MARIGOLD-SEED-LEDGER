@@ -1,0 +1,17 @@
+[
+  {"notice_id":"DN-001","plot_id":"PT-01","recorded_at":"2101-04-20T09:00:00Z","kind":"received","packets":4,"revision":1},
+  {"notice_id":"DN-002","plot_id":"PT-02","recorded_at":"2101-04-21T10:00:00Z","kind":"received","packets":2,"revision":1},
+  {"notice_id":"DN-003","plot_id":"PT-02","recorded_at":"2101-04-25T08:00:00Z","kind":"received","packets":4,"revision":1},
+  {"notice_id":"DN-004","plot_id":"PT-03","recorded_at":"2101-04-18T12:00:00Z","kind":"delayed","packets":0,"revision":1},
+  {"notice_id":"DN-005","plot_id":"PT-05","recorded_at":"2101-04-28T16:30:00Z","kind":"received","packets":8,"revision":1},
+  {"notice_id":"DN-006","plot_id":"PT-06","recorded_at":"2101-05-01T00:00:00Z","kind":"received","packets":2,"revision":2},
+  {"notice_id":"DN-006","plot_id":"PT-06","recorded_at":"2101-04-27T10:00:00Z","kind":"received","packets":2,"revision":1},
+  {"notice_id":"DN-007","plot_id":"PT-07","recorded_at":"2101-04-29T08:00:00Z","kind":"received","packets":1,"revision":1},
+  {"notice_id":"DN-008","plot_id":"PT-07","recorded_at":"2101-04-29T08:00:00Z","kind":"cancelled","packets":0,"revision":1},
+  {"notice_id":"DN-009","plot_id":"PT-09","recorded_at":"2101-04-30T23:59:59Z","kind":"received","packets":1,"revision":1},
+  {"notice_id":"DN-010","plot_id":"PT-10","recorded_at":"2101-04-12T07:00:00Z","kind":"received","packets":0,"revision":1},
+  {"notice_id":"DN-011","plot_id":"PT-04","recorded_at":"2101-04-20T10:00:00Z","kind":"received","packets":2,"revision":1},
+  {"notice_id":"BAD-012","plot_id":"PT-01","recorded_at":"2101-04-24T10:00:00Z","kind":"received","packets":9,"revision":1},
+  {"notice_id":"DN-012","plot_id":"PT-01","recorded_at":"2101-04-24T10:00:00Z","kind":"received","packets":9,"revision":true},
+  {"notice_id":"DN-013","plot_id":"PT-05","recorded_at":"2101-04-26T10:00:00Z","kind":"received","packets":6,"revision":2,"note":"extra"}
+]

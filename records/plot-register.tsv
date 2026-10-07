@@ -1,0 +1,16 @@
+plot_id	gardener	bed	packets_needed	active	revision
+PT-01	Amina Cole	North-1	4	yes	1
+PT-02	Bruno Diaz	East-2	3	yes	2
+PT-03	Chen Wu	South-1	5	yes	1
+PT-04	Dara Singh	West-3	2	no	3
+PT-05	Elena Moss	North-4	6	yes	1
+PT-02	Bruno Diaz	East-2	4	yes	3
+PT-06	Faye Noor	East-5	2	yes	1
+PT-07	Gabe Holt	South-2	3	yes	1
+PT-08	Hiro Tan	West-1	4	no	1
+PT-09	Iris Bell	North-6	1	yes	2
+PT-10	Jules Park	East-7	2	yes	1
+PT-11		South-8	3	yes	1
+PT-12	Kira Vale	West-2	02	yes	1
+PT-13	Lena Orr	North-9	3	yes	1
+PT-13	Lena Orr	North-9	5	no	2
